@@ -1,0 +1,12 @@
+{
+  "claims": [
+    {
+      "CENNZ_account": "5DAAnrj7VHTznn2AWBemMuyBwZWs6FNFjdyVXUeYum3PTXFy",
+      "email_hash": "0x5eda1ba563856b8790540c4b7965bcacddc24f5b6b85f6d9199d22f659c81cb4"
+    },
+    {
+      "CENNZ_account": "5HGjWAeFDfFCWPsjFQdVV2Msvz2XtMktvgocEZcCj68kUMaw",
+      "email_hash": "0x0000000000000000000000000000000000000000000000000000000000000012"
+    }
+  ]
+}
